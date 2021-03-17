@@ -17,5 +17,11 @@ namespace WinFormsApp1
             InitializeComponent();
         }
 
+        String txtuser = "admin" && txtpass = "admin";
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
